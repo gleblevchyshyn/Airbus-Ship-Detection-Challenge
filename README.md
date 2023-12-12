@@ -103,15 +103,3 @@ In the image below, I tried to use a threshold slightly lower than 0.5. I assume
 
 
 The Overall dice coefficient on the validation dataset is 0.6942723989486694.
-
-
-# Acknowledgements
-
-I want to thank all people in R&D center WINSTARS.AI that gave me the best opportunity in my life to improve my knowledge.
-I applied to the Inter Data Science vacancy and expected boring test with one answer to each question (I faced such tests, and I really don't enjoy them), but you gave me project, which helped me to learn new deep learning model, and image segmentation concept.
-Moreover, I dived more deeply in understanding generators, new approaches to image augmentations and other stuff.
-
-It's funny how I thought that I couldn't create deep learning models using datasets with size more than 20Gb. In my previous attempts of creating such projects, I failed to use Google Colab and my own GPU because of some limitations. But in this project, I found out that Kaggle provides free 30 hours of using their servers per week. In my next projects, it will help me to create fascinating projects, enhance my knowledge and experience.  
-
-I am really glad that I applied to your company as Intern Data Scientist and tried this project.
-It was really fun and I spent time with benefits.
